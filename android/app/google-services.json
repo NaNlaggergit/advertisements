@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "139717560432",
+    "project_id": "advertisements-5627c",
+    "storage_bucket": "advertisements-5627c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139717560432:android:861f350013529818298cb5",
+        "android_client_info": {
+          "package_name": "example.ads.advertisements"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvfyJLLwes-tRcL1CexiTX-CVwaWShbgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
